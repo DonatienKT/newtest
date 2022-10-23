@@ -6,7 +6,7 @@
     #----------------------- Description ------------------------------
     # for loop, for printing color in the prompt
 
-COLORS="red green blue white"
+COLORS="red green blue yellow white"
 
 echo " |----------------------"
 for COLOR in $COLORS
